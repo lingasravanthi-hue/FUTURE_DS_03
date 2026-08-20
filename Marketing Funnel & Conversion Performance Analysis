@@ -1,0 +1,161 @@
+# 📊 Funnel Analysis
+
+## 📌 Project Overview
+
+This project focuses on analyzing the customer journey through a sales and conversion funnel. The analysis tracks users from the browsing stage through adding products to the cart, checkout, and final purchase.
+
+The Funnel Analysis Dashboard helps identify where users drop off during their journey and provides insights that can help improve conversion rates and overall business performance.
+
+---
+
+## 🎯 Project Objectives
+
+* Analyze the complete user conversion journey.
+* Track users across different funnel stages.
+* Identify major user drop-off points.
+* Measure conversion and purchase rates.
+* Analyze user behavior by channel, product category, region, and device.
+* Understand cart and checkout abandonment.
+* Generate insights to improve conversions.
+
+---
+
+## 📊 Key Performance Indicators
+
+The dashboard includes the following KPIs:
+
+* 💰 **Total Revenue:** 277.32K
+* 👥 **Browse Users:** 10K
+* 🛒 **Add to Cart Users:** 7K
+* 🛍️ **Checkout Users:** 3K
+* ✅ **Purchase Users:** 1K
+* 📈 **Browse to Cart Rate:** 64.99%
+* 💳 **Purchase Rate:** 29.05%
+* 📊 **Overall Conversion Rate:** 10.04%
+* 🛒 **Cart Abandonment Rate:** 57.83%
+* ❌ **Checkout Abandonment Rate:** 70.95%
+
+---
+
+## 🔄 Funnel Stages
+
+The customer journey is analyzed through four main stages:
+
+1. **Browse** – Users exploring products.
+2. **Add to Cart** – Users adding products to their shopping cart.
+3. **Checkout** – Users proceeding toward completing their purchase.
+4. **Purchase** – Users successfully completing a transaction.
+
+The funnel visualization helps identify how many users progress from one stage to the next.
+
+---
+
+## 📈 Dashboard Analysis
+
+The dashboard provides analysis across multiple dimensions:
+
+### Funnel Users by Stage
+
+Tracks the number of users at each stage of the customer journey and identifies drop-offs between stages.
+
+### Browse Users by Channel
+
+Analyzes users coming from different channels, including:
+
+* Organic
+* Google Ads
+* Email
+* Social Media
+
+### Browse Users by Product Category
+
+Compares browsing activity across product categories such as:
+
+* Electronics
+* Beauty
+* Fashion
+* Home
+* Sports
+
+### Browse Users by Region
+
+Analyzes user activity across different regions.
+
+### Browse Users by Device
+
+Compares user behavior across:
+
+* Tablet
+* Desktop
+* Mobile
+
+---
+
+## 🎛️ Interactive Filters
+
+The dashboard includes filters for:
+
+* Stage
+* Region
+* Event Time
+* Channel
+* Device
+
+These filters allow users to explore the funnel data from different perspectives.
+
+---
+
+## 💡 Key Insights
+
+* The number of users decreases significantly as they move through the funnel.
+* A major drop-off occurs between the **Add to Cart** and **Checkout** stages.
+* Checkout abandonment is an important area that may require improvement.
+* User acquisition channels contribute differently to browsing activity.
+* Customer behavior can vary based on device, region, and product category.
+* Funnel analysis helps identify stages where optimization can improve overall conversion.
+
+---
+
+## 💼 Business Recommendations
+
+* Improve the checkout process to reduce checkout abandonment.
+* Simplify the purchase journey and reduce unnecessary steps.
+* Use targeted reminders for users who abandon their carts.
+* Optimize the experience across different devices.
+* Analyze high-performing marketing channels and improve underperforming channels.
+* Provide personalized offers to encourage users to complete their purchases.
+* Continuously monitor funnel performance to identify changes in customer behavior.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+* Microsoft Power BI
+* Data Cleaning
+* Data Transformation
+* Data Analysis
+* Data Visualization
+* DAX
+* KPI Analysis
+* Funnel Analysis
+* Business Intelligence
+
+---
+
+## 🚀 Conclusion
+
+This Funnel Analysis project demonstrates how user journey data can be transformed into meaningful business insights.
+
+By tracking users from browsing through purchase, the dashboard helps identify conversion patterns, user drop-offs, and areas that require optimization.
+
+The project demonstrates practical skills in **Data Analysis, Data Visualization, KPI Development, Funnel Analysis, Power BI, and Business Intelligence**.
+
+---
+
+## 👩‍💻 Author
+
+**Sravanthi Linga**
+
+---
+
+⭐ If you found this project useful, feel free to **star this repository**!
